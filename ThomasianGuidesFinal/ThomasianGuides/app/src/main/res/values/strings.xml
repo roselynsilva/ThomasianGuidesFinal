@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Thomasian Guides</string>
+    <string name="hot1">Hotline Numbers</string>
+    <string name="tips1">Different Tips</string>
+    <string name="foodname">Food Tips</string>
+    <string name="floodtips">Flood Tips</string>
+    <string name="collegetips">College Tips</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView1">1. Visit the UST Library</string>
+    <string name="textViews2">The best thing that the University can offer to all the Thomasians is the Library where you can find different books that helps you to do your school works but dont forget your I.D because the library is strict, they have the policy of no I.D no entry.</string>
+    <string name="text1">1. Always Bring your Umbrella</string>
+    <string name="text2">Rain or Shine bring your umbrella because thats your protection gear when the sun is up and the rain is falling.</string>
+    <string name="name1">Inside UST</string>
+    <string name="name2">Tokyo Tokyo</string>
+    <string name="name3">Reyes Barbecue</string>
+    <string name="name4">Rice in a Box</string>
+    <string name="name5">Chicken Rice Shop</string>
+    <string name="title_activity_con_hot">Hotline Numbers</string>
+    <string name="title_activity_con_tips">Different Tips</string>
+    <string name="title_activity_college">College Tips</string>
+    <string name="title_activity_flood">Flood Tips</string>
+    <string name="title_activity_food">Food Tips</string>
+    <string name="Hotline1">Hospital</string>
+    <string name="Hotline2">Manila Doctors Hospital</string>
+    <string name="Hotline3">524-3011</string>
+    <string name="Hotline6">Makati Medical Center</string>
+    <string name="Hotline7"> 8888-999</string>
+
+
+
+</resources>
